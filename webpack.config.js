@@ -1,0 +1,5 @@
+const webpack = require("webpack")
+const path = require("path")
+const HtmlWebpackPlugin = require("html-webpack-plugin")
+const CleanPlugin = require("clean-webpack-plugin")
+const autoprefixer = require("autoprefixer")
